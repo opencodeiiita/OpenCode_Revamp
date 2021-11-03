@@ -1,0 +1,11 @@
+Figma link : https://www.figma.com/file/eTbDSx3XR2ICEPsRU4IxKY/hero-design?node-id=0%3A1
+
+OpenCode Hero Section Design Thinking
+
+1. Color scheme : I kept the color scheme of the design similar(although bit darker to highlight better) to the existing color of the website. I've written "OpenCode" simple using montserrat font, just to keep the design minimal.
+2. Alignment : Followed proper alignment to keep the overall design look good.
+3. Navbar(links) : For the links, I've used black colour(similar to what I used for Opencode title) and kept the "Home" link bold to represent the present active tab. 
+4. Blobs : I've used blobs to highlight the navbar links and OpenCode title.
+5. Vector image : At bottom right, I've used a vector image in which a girl is busy working and solving issues. A glimpse of issues and its description is also highlighted to represent which all issues she has completed. An hour-glass is also present on the table which reminds her of the limited time she has to complete her work. In the background, some books in a shelf and a plant gives a homie vibe since we all are competing from our home.
+6. Text content : I kept heading part bold with larger font size to highlight it from other content. The text under this heading gives a brief about the OpenCode program.
+7. Buttons : I've kept the two buttons, one of Devfolio dashboard throgh which we have to enroll to this program and highlighted this button with darker shade of purple and the other one being discord server link through which we'll be kept updated of the upcoming events, discussions and issues, as well. 
