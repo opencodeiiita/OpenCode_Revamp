@@ -1,0 +1,17 @@
+Section Design Thinking
+
+Figma link: https://www.figma.com/file/kvHXR69A3NySprqFjFd69N/Untitled?node-id=0%3A1
+
+1. Color scheme: I have tried to blend my color scheme with the color of the circles in the original OpenCode website, so I chose pink as the recurring primary color throughout my redesigned website. A darker shade of pink has been used to highlight things including the Call To Action button and the word Open Source (since that is the primary motive of OpenCode). The on-primary text color is black for clear visibility of the text.
+
+2. Logo: The logo is the official OpenCode logo but in black so that it goes well with the rest of the text on screen and its contrast is eye-catching and goes well with the white background.
+
+3. The Navbar (Links) : Here I have followed the design principle of alignment to align all the links at the top right corner of the page. The active link is highlighted and underlined in the dark pink color to clearly indicate which section of the website the user is currently on. The other links are in black so that the user can easily see and select which section they want to go to. The Navbar is designed with the Jakob's Law in mind as all other websites also have the navbar in the rop right corner from which the user can go to different sections of the page.
+
+4. Text: In this section, I have followed the design principle of Heirarchy where it starts with the big logo text, followed by the relatively big tagline, and finally the small description text. This helps direct the attention of the user in whichever flow we want them to read the contents of the website. Both the tagline and the description have text color in black to go with the color scheme but the word OpenSource is highlighted in dark pink to emphasize its importance. This makes use of the Von Restorff effect to make important information visually distinctive to create a greater impact on the user.
+
+5. Buttons: My primary Call To Action button is the Dashboard button with the registration link to Devfolio (because that is the main thing the user has to do to participate in OpenCode and thus that should be the one that strikes the user's eye first). The secondary button is the Discord button with the link to OpenCode's discord server to keep in touch with all updates related to it. The primary button is dark pink in color to highlight it and make it pop up on the screen with white color for both the logo and the text to have good contrast between the two. The same is done for the secondary button but exactly opposite, with a white button and dark pink logo and text. This is done so the two buttons are in clear contrast with each other but look good together at the same time.
+
+6. Background Image: For the background image, I have picked a picture that fits OpenCode and its theme of open source and a guy just coding and building amazing stuff. This picture also goes with the color scheme as it has shades of pink and purple. I positioned it right below the tagline to make sure the alignment of my elements is consistent. 
+
+7. Background split design : Here I used a curved split design to divide my page into two. This helps partiton all other elements with the Call To Action button, drawing special emphasis on it so users are more likely to gravitate towards it and giving the website a sleek look.
