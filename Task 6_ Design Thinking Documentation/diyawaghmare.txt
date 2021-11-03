@@ -1,0 +1,17 @@
+OpenCode Hero Section Design Thinking
+
+Figma link: https://www.figma.com/file/rqJegNyvTxyU78CPPLQqtT/Hero?node-id=0%3A1
+
+1. Color scheme: Going with the existing color scheme of the OpenCode website, I chose blue as the recurring primary color throughout my redesigned website. A darker shade of blue is used to highlight things including the Call To Action button and the word Open Source (since that is what OpenCode is all about). The on-primary text color is black for clear visibility of the text.
+
+2. Logo: The logo is nothing but the official OpenCode logo but in white so that the contrast goes well with the light blue shade of the background and can be distinguished from the rest of the black color text on the page.
+
+3. The Navbar (Links) : Here I have followed the design principle of alignment to align all the links at the top right corner of the page. The active link is highlighted and underlined in the dark blue color to clearly indicate which section of the website the user is currently on. The other links are in black so that the user can easily see and select which section they want to go to. The Navbar is designed with the Jakob's Law in mind as all other websites also have the navbar in the rop right corner from which the user can go to different sections of the page.
+
+4. Text: In this section, I have followed the design principle of Heirarchy where it starts with the big logo text, followed by the relatively big tagline, and finally the small description text. This helps direct the attention of the user in whichever flow we want them to read the contents of the website. Both the tagline and the description have text color in black to go with the color scheme but the word OpenSource is highlighted in dark blue to emphasize its importance. This makes use of the Von Restorff effect to make important information visually distinctive to create a greater impact on the user.
+
+5. Buttons: My primary Call To Action button is the Dashboard button with the registration link to Devfolio (because that is the main thing the user has to do to participate in OpenCode and thus that should be the one that strikes the user's eye first). The secondary button is the Discord button with the link to OpenCode's discord server to keep in touch with all updates related to it. The primary button is dark blue in color to highlight it and make it pop up on the screen with white color for both the logo and the text to have good contrast between the two. The same is done for the secondary button but exactly opposite, with a white button and dark blue logo and text. This is done so the two buttons are in clear contrast with each other but look good together at the same time.
+
+6. Background Image: For the background image, I have picked a picture that represents OpenCode for me, just a girl typing away at her keyboard while other people can access and view that work from anywhere. This pictue also goes with my color scheme as it has shades of blue and purple. I positioned it right next to the text to make sure the alignment of my elements is consistent. 
+
+7. Background half circle design : This is intact with the original OpenCode theme of having circles of different colors in the background. Here I used that to divide my page into two with the help of the half circle. This helps partiton the text and the image element and gives the website a clean, divided look.
